@@ -42,13 +42,15 @@ export const appCategories: Category[] = [
         downloadUrl: 'http://go.aftv.news/2945565',
       },
       {
-        id: 'tubi',
-        name: 'Tubi TV',
-        icon: '📹',
+        id: 'NETFLY'',
+        name: 'NETFLY',
+        icon: 'https://i.ibb.co/jkHBz4FF/NETFLY.png',
         description: 'Free streaming service with thousands of movies and TV shows',
         rating: 4.5,
         downloads: '8M+',
         features: ['Free', 'Legal', 'Large Library'],
+        downloadCode: '8527152',
+        downloadUrl: 'http://go.aftv.news/8527152',
       },
       {
         id: 'pluto',
