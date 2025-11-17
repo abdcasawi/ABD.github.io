@@ -89,7 +89,7 @@ export const appCategories: Category[] = [
       {
         id: 'GENERALTV',
         name: 'GENERALTV',
-        icon: 'https://i.ibb.co/yFkgC2br/yacinetv.png',
+        icon: 'https://i.ibb.co/Y7jXyKCW/GENERALTV.png',
         description: 'Organize and watch video content from different services with add-ons support',
         rating: 4.7,
         downloads: '5M+',
