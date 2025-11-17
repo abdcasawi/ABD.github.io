@@ -49,7 +49,6 @@ export const appCategories: Category[] = [
         rating: 4.6,
         downloads: '10M+',
         features: ['Free streaming service with live channels and on-demand content'],
-        downloadCode: '8527152',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1Ogfd69muGkjf3OI0M_UV1Im8X0YwyLbG&export=download&authuser=0&confirm=t&uuid=ef6912b4-5438-4dde-af79-b34e702443b4&at=ALWLOp78evszaCHxClXzo9DClrLe%3A1763399141969',
       },
       {
@@ -60,7 +59,6 @@ export const appCategories: Category[] = [
         rating: 4.6,
         downloads: '10M+',
         features: ['Free streaming service with live channels and on-demand content'],
-        downloadCode: '2981755',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1-C73JBqDA8SmBq7c_fqr7NreLEeuX_TL&export=download&authuser=0&confirm=t&uuid=b4b9c3cb-779a-4e17-9054-ea606e57f6dc&at=ALWLOp5xYVjbqCooAjY7IG6-61M6%3A1763398695252',
       },
       {
