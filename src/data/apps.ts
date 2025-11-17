@@ -110,7 +110,7 @@ export const appCategories: Category[] = [
       {
         id: 'AYATV',
         name: 'AYATV',
-        icon: 'https://i.ibb.co/qFDfQLkb/ostora.png',
+        icon: 'https://i.ibb.co/zhn7WSQp/AYATV.png',
         description: 'Organize and watch video content from different services with add-ons support',
         rating: 4.7,
         downloads: '5M+',
