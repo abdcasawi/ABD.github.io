@@ -111,7 +111,7 @@ export const appCategories: Category[] = [
         id: 'AYATV',
         name: 'AYATV',
         icon: 'https://i.ibb.co/zhn7WSQp/AYATV.png',
-        description: 'Organize and watch video content from different services with add-ons support',
+        description: 'Aya TV هي منصة بث تلفزيوني من الجيل التالي توفر للمستخدمين إمكانية الوصول إلى مجموعة واسعة من الأفلام والبرامج التلفزيونية والأفلام الوثائقية والرياضات الحية',
         rating: 4.7,
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
