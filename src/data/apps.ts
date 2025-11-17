@@ -94,7 +94,7 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=19k1ENrqQh6dDQxZLQzXUmD2-_Idr8yiW&export=download&authuser=0&confirm=t&uuid=cd1301d3-914c-4d4b-bdb6-ae788f85ce51&at=ALWLOp72G9n_Mg1wmZZxN7SC5hot%3A1763399255014',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=144BNcMvGhXoCvd1cCnitVMI36km-wayT&export=download&authuser=0&confirm=t&uuid=af471b05-4dd3-409e-8f0f-f6733e8f4832&at=ALWLOp7KUsP9l19ayx_ioMdhc9yj%3A1763403378667',
       },
       {
         id: 'iptv-smarters',
