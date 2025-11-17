@@ -104,7 +104,7 @@ export const appCategories: Category[] = [
         description: 'Advanced IPTV player with VOD, series, and live TV support',
         rating: 4.7,
         downloads: '5M+',
-        features: ['livetv'''VOD', 'Series', 'EPG'],
+        features: ['livetv''VOD', 'Series', 'EPG'],
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1snE_nqsCRY9jTrimsmhK56Vh7EzX4k0h&export=download&authuser=0&confirm=t&uuid=66970ed0-191a-4993-9277-3d212747bef2&at=ALWLOp6NU1Da5bQrCO4qFKoUuHY1%3A1763404174836',
       },
       {
