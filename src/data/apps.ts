@@ -99,7 +99,7 @@ export const appCategories: Category[] = [
       },
       {
         id: 'ostora',
-        name: 'GENERALTV',
+        name: 'ostora',
         icon: 'https://i.ibb.co/Y7jXyKCW/GENERALTV.png',
         description: 'Organize and watch video content from different services with add-ons support',
         rating: 4.7,
