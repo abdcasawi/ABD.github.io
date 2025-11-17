@@ -50,7 +50,7 @@ export const appCategories: Category[] = [
         downloads: '10M+',
         features: ['Free streaming service with live channels and on-demand content'],
         downloadCode: '8527152',
-        downloadUrl: 'http://go.aftv.news/8527152',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1AlcsxaE7InXPeIlXBjn6CNUQa4w2ogRO&export=download&authuser=0&confirm=t&uuid=e851cd5b-842f-4b5d-8dfd-c28b8b44e0e6&at=ALWLOp6uMmIEa6d92d1R74f10sG4:1763398401541',
       },
       {
         id: 'SHAHID',
