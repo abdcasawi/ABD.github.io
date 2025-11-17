@@ -60,7 +60,7 @@ export const appCategories: Category[] = [
       },
       {
         id: 'SHAHID',
-        name: 'HDOBOX',
+        name: 'SHAHID',
         icon: 'https://i.ibb.co/TDD3G54t/HDOBOX.png',
         description: 'HDO Box: Your Ultimate Free Streaming App for Movies and TV Shows',
         rating: 4.7,
