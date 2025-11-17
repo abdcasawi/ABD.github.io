@@ -61,7 +61,7 @@ export const appCategories: Category[] = [
       {
         id: 'SHAHID',
         name: 'SHAHID',
-        icon: 'https://i.ibb.co/TDD3G54t/HDOBOX.png',
+        icon: 'https://i.ibb.co/4ZWV5qDM/shahid.png',
         description: 'HDO Box: Your Ultimate Free Streaming App for Movies and TV Shows',
         rating: 4.7,
         downloads: '12M+',
