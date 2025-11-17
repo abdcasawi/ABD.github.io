@@ -98,15 +98,15 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://drive.usercontent.google.com/download?id=144BNcMvGhXoCvd1cCnitVMI36km-wayT&export=download&authuser=0&confirm=t&uuid=af471b05-4dd3-409e-8f0f-f6733e8f4832&at=ALWLOp7KUsP9l19ayx_ioMdhc9yj%3A1763403378667',
       },
       {
-        id: 'ostora',
-        name: 'ostora',
-        icon: 'https://i.ibb.co/S768CDRq/ostora.png',
-        description: 'Advanced IPTV player with VOD, series, and live TV support',
+        id: 'GENERALTV',
+        name: 'GENERALTV',
+        icon: 'https://i.ibb.co/Y7jXyKCW/GENERALTV.png',
+        description: 'Organize and watch video content from different services with add-ons support',
         rating: 4.7,
         downloads: '5M+',
-        features: ['livetv','VOD', 'Series', 'EPG'],
-        downloadcode: '616308'
-        downloadurl: 'https://drive.usercontent.google.com/download?id=1snE_nqsCRY9jTrimsmhK56Vh7EzX4k0h&export=download&authuser=0&confirm=t&uuid=66970ed0-191a-4993-9277-3d212747bef2&at=ALWLOp6NU1Da5bQrCO4qFKoUuHY1%3A1763404174836',  
+        features: ['Add-ons', 'Multi-source', 'Sync'],
+        downloadCode: 'activation 5050',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=144BNcMvGhXoCvd1cCnitVMI36km-wayT&export=download&authuser=0&confirm=t&uuid=af471b05-4dd3-409e-8f0f-f6733e8f4832&at=ALWLOp7KUsP9l19ayx_ioMdhc9yj%3A1763403378667',
       },
       {
         id: 'live-net-tv',
