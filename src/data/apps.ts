@@ -66,8 +66,7 @@ export const appCategories: Category[] = [
     description: 'Watch live television channels and IPTV streams',
     icon: Tv,
     apps: [
-      {
- {
+    {
         id: 'YACINE TV BLACK',
         name: 'YACINE TV BLACK',
         icon: 'https://i.ibb.co/yFkgC2br/yacinetv.png',
