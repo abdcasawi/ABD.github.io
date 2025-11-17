@@ -66,7 +66,7 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '12M+',
         features: ['Personal Library', 'Remote Access', 'Free Content'],
-        downloadUrl: 'https://hdobox-tv.com/',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1pJ7aOwQRDL4xTIWfEy6aa8jO3SmJoYTm&export=download&authuser=0&confirm=t&uuid=4edc4e14-7dc1-457c-8d6e-bdf9f06d483e&at=ALWLOp7543-y36_7xT6BS4tZYuFj%3A1763402356544',
       },
     ],
   },
