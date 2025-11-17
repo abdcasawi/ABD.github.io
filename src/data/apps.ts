@@ -99,7 +99,7 @@ export const appCategories: Category[] = [
       },
       {
         id: 'ostora',
-        name: 'IPTV Smarters Pro',
+        name: 'ostora',
         icon: '📺',
         description: 'Advanced IPTV player with VOD, series, and live TV support',
         rating: 4.7,
