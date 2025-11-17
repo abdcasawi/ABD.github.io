@@ -17,7 +17,7 @@ export const appCategories: Category[] = [
         downloads: '2M+',
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
         downloadCode: '4730507',
-        downloadUrl: 'http://go.aftvnews.com/4730507',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1e6pVazaZJsLkctIoGqpKQCRVm1lhhdh6&export=download&authuser=0&confirm=t&uuid=d3d47937-4c6a-4e4f-9fd8-2982db146ed1&at=ALWLOp6VtV8b3CnuGkueJ3p7gy6-%3A1763399207458',
       },
       {
         id: 'YACINE TV BLACK',
