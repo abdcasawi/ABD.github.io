@@ -53,9 +53,9 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1AlcsxaE7InXPeIlXBjn6CNUQa4w2ogRO&export=download&authuser=0&confirm=t&uuid=e851cd5b-842f-4b5d-8dfd-c28b8b44e0e6&at=ALWLOp6uMmIEa6d92d1R74f10sG4:1763398401541',
       },
       {
-        id: 'SHAHID',
-        name: 'SHAHID',
-        icon: 'https://i.ibb.co/rKDSgjH6/shahid.png',
+        id: 'IBOFREE',
+        name: 'IBOFREE',
+        icon: 'https://i.ibb.co/pvbK3JVf/ibofree.png',
         description: 'Free streaming service with live channels and on-demand content',
         rating: 4.6,
         downloads: '10M+',
