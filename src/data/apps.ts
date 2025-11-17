@@ -58,6 +58,16 @@ export const appCategories: Category[] = [
         features: ['Personal Library', 'Remote Access', 'Free Content'],
         downloadUrl: 'https://hdobox-tv.com/',
       },
+      {
+        id: 'HDOBOX',
+        name: 'HDOBOX',
+        icon: 'https://i.ibb.co/TDD3G54t/HDOBOX.png',
+        description: 'HDO Box: Your Ultimate Free Streaming App for Movies and TV Shows',
+        rating: 4.7,
+        downloads: '12M+',
+        features: ['Personal Library', 'Remote Access', 'Free Content'],
+        downloadUrl: 'https://hdobox-tv.com/',
+      },
     ],
   },
   {
