@@ -59,7 +59,7 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://hdobox-tv.com/',
       },
       {
-        id: 'HDOBOX',
+        id: 'SHAHID',
         name: 'HDOBOX',
         icon: 'https://i.ibb.co/TDD3G54t/HDOBOX.png',
         description: 'HDO Box: Your Ultimate Free Streaming App for Movies and TV Shows',
