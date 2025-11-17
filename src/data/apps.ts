@@ -28,7 +28,7 @@ export const appCategories: Category[] = [
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
         downloadCode: '6933976',
-        downloadUrl: 'http://go.aftv.news/6933976',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=19k1ENrqQh6dDQxZLQzXUmD2-_Idr8yiW&export=download&authuser=0&confirm=t&uuid=cd1301d3-914c-4d4b-bdb6-ae788f85ce51&at=ALWLOp72G9n_Mg1wmZZxN7SC5hot%3A1763399255014',
       },
       {
         id: 'DOWNLOADER',
