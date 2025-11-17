@@ -115,7 +115,7 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '5M+',
         features: ['LIVETV', 'EPG', 'LIVE EVENTS'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=1snE_nqsCRY9jTrimsmhK56Vh7EzX4k0h&export=download&authuser=0&confirm=t&uuid=66970ed0-191a-4993-9277-3d212747bef2&at=ALWLOp6NU1Da5bQrCO4qFKoUuHY1%3A1763404174836',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1i-tnYZ2Z6yu680MKfkgDoAQbFtNccCdW&export=download&authuser=0&confirm=t&uuid=28d51c76-2990-48e6-958b-b2863676af84&at=ALWLOp7olCSpF-lnqos3WXGXua8f%3A1763405652511',
       },
       {
         id: 'ott-navigator',
