@@ -114,7 +114,7 @@ export const appCategories: Category[] = [
         description: 'Aya TV هي منصة بث تلفزيوني من الجيل التالي توفر للمستخدمين إمكانية الوصول إلى مجموعة واسعة من الأفلام والبرامج التلفزيونية والأفلام الوثائقية والرياضات الحية',
         rating: 4.7,
         downloads: '5M+',
-        features: ['Add-ons', 'Multi-source', 'Sync'],
+        features: ['LIVETV', 'EPG', 'LIVE EVENTS'],
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1snE_nqsCRY9jTrimsmhK56Vh7EzX4k0h&export=download&authuser=0&confirm=t&uuid=66970ed0-191a-4993-9277-3d212747bef2&at=ALWLOp6NU1Da5bQrCO4qFKoUuHY1%3A1763404174836',
       },
       {
