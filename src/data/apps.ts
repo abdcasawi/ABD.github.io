@@ -105,8 +105,8 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '5M+',
         features: ['livetv','VOD', 'Series', 'EPG'],
-        downlladcode: '616308'
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=144BNcMvGhXoCvd1cCnitVMI36km-wayT&export=download&authuser=0&confirm=t&uuid=af471b05-4dd3-409e-8f0f-f6733e8f4832&at=ALWLOp7KUsP9l19ayx_ioMdhc9yj%3A1763403378667',
+        downlowdcode: '616308'
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=144BNcMvGhXoCvd1cCnitVMI36km-wayT&export=download&authuser=0&confirm=t&uuid=af471b05-4dd3-409e-8f0f-f6733e8f4832&at=ALWLOp7KUsP9l19ayx_ioMdhc9yj%3A1763403378667'  
       },
       {
         id: 'live-net-tv',
