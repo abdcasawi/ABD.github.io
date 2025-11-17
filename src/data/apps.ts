@@ -19,16 +19,6 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1e6pVazaZJsLkctIoGqpKQCRVm1lhhdh6&export=download&authuser=0&confirm=t&uuid=d3d47937-4c6a-4e4f-9fd8-2982db146ed1&at=ALWLOp6VtV8b3CnuGkueJ3p7gy6-%3A1763399207458',
       },
       {
-        id: 'YACINE TV BLACK',
-        name: 'YACINE TV BLACK',
-        icon: 'https://i.ibb.co/yFkgC2br/yacinetv.png',
-        description: 'Organize and watch video content from different services with add-ons support',
-        rating: 4.7,
-        downloads: '5M+',
-        features: ['Add-ons', 'Multi-source', 'Sync'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=19k1ENrqQh6dDQxZLQzXUmD2-_Idr8yiW&export=download&authuser=0&confirm=t&uuid=cd1301d3-914c-4d4b-bdb6-ae788f85ce51&at=ALWLOp72G9n_Mg1wmZZxN7SC5hot%3A1763399255014',
-      },
-      {
         id: 'DOWNLOADER',
         name: 'DOWNLOADER',
         icon: 'https://i.ibb.co/GvY9QN9n/DOWNLOADER.png',
@@ -77,14 +67,15 @@ export const appCategories: Category[] = [
     icon: Tv,
     apps: [
       {
-        id: 'tivimate',
-        name: 'TiviMate',
-        icon: '📡',
-        description: 'Premium IPTV player with EPG, recording, and multi-playlist support',
-        rating: 4.9,
-        downloads: '3M+',
-        features: ['EPG Support', 'Recording', 'Multi-playlist'],
-        downloadCode: '734512',
+ {
+        id: 'YACINE TV BLACK',
+        name: 'YACINE TV BLACK',
+        icon: 'https://i.ibb.co/yFkgC2br/yacinetv.png',
+        description: 'Organize and watch video content from different services with add-ons support',
+        rating: 4.7,
+        downloads: '5M+',
+        features: ['Add-ons', 'Multi-source', 'Sync'],
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=19k1ENrqQh6dDQxZLQzXUmD2-_Idr8yiW&export=download&authuser=0&confirm=t&uuid=cd1301d3-914c-4d4b-bdb6-ae788f85ce51&at=ALWLOp72G9n_Mg1wmZZxN7SC5hot%3A1763399255014',
       },
       {
         id: 'iptv-smarters',
