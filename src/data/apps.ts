@@ -16,7 +16,6 @@ export const appCategories: Category[] = [
         rating: 9.1,
         downloads: '2M+',
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
-        downloadCode: '4730507',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1e6pVazaZJsLkctIoGqpKQCRVm1lhhdh6&export=download&authuser=0&confirm=t&uuid=d3d47937-4c6a-4e4f-9fd8-2982db146ed1&at=ALWLOp6VtV8b3CnuGkueJ3p7gy6-%3A1763399207458',
       },
       {
@@ -27,7 +26,6 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
-        downloadCode: '6933976',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=19k1ENrqQh6dDQxZLQzXUmD2-_Idr8yiW&export=download&authuser=0&confirm=t&uuid=cd1301d3-914c-4d4b-bdb6-ae788f85ce51&at=ALWLOp72G9n_Mg1wmZZxN7SC5hot%3A1763399255014',
       },
       {
@@ -38,7 +36,6 @@ export const appCategories: Category[] = [
         rating: 4.6,
         downloads: '10M+',
         features: ['download all apk applications for android os'],
-        downloadCode: '2945565',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1AlcsxaE7InXPeIlXBjn6CNUQa4w2ogRO&export=download&authuser=0&confirm=t&uuid=e851cd5b-842f-4b5d-8dfd-c28b8b44e0e6&at=ALWLOp6uMmIEa6d92d1R74f10sG4:1763398401541',
       },
       {
