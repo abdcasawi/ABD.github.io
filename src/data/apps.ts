@@ -87,6 +87,16 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://drive.usercontent.google.com/download?id=19k1ENrqQh6dDQxZLQzXUmD2-_Idr8yiW&export=download&authuser=0&confirm=t&uuid=cd1301d3-914c-4d4b-bdb6-ae788f85ce51&at=ALWLOp72G9n_Mg1wmZZxN7SC5hot%3A1763399255014',
       },
       {
+        id: 'GENERALTV',
+        name: 'YACINE TV BLACK',
+        icon: 'https://i.ibb.co/yFkgC2br/yacinetv.png',
+        description: 'Organize and watch video content from different services with add-ons support',
+        rating: 4.7,
+        downloads: '5M+',
+        features: ['Add-ons', 'Multi-source', 'Sync'],
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=19k1ENrqQh6dDQxZLQzXUmD2-_Idr8yiW&export=download&authuser=0&confirm=t&uuid=cd1301d3-914c-4d4b-bdb6-ae788f85ce51&at=ALWLOp72G9n_Mg1wmZZxN7SC5hot%3A1763399255014',
+      },
+      {
         id: 'iptv-smarters',
         name: 'IPTV Smarters Pro',
         icon: '📺',
