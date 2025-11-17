@@ -61,7 +61,7 @@ export const appCategories: Category[] = [
         downloads: '10M+',
         features: ['Free streaming service with live channels and on-demand content'],
         downloadCode: '2981755',
-        downloadUrl: 'http://go.aftv.news/2981755',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1-C73JBqDA8SmBq7c_fqr7NreLEeuX_TL&export=download&authuser=0&confirm=t&uuid=b4b9c3cb-779a-4e17-9054-ea606e57f6dc&at=ALWLOp5xYVjbqCooAjY7IG6-61M6%3A1763398695252',
       },
       {
         id: 'plex',
