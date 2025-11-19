@@ -240,3 +240,5 @@ export const appCategories: Category[] = [
         features: ['Music Videos', 'Playlists', 'Recommendations'],
       },
     ],
+  },
+];
