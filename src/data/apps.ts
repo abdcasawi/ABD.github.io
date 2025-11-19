@@ -4,6 +4,7 @@ import type { Category } from '../types';
 export const appCategories: Category[] = [
   {
     id: 'streaming',
+    title: 'downloader',
     title: 'Movie & Series Streaming',
     description: 'Best apps for streaming movies, TV shows, and original content',
     icon: Film,
