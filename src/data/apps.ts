@@ -4,10 +4,10 @@ import type { Category } from '../types';
 export const appCategories: Category[] = [
   {
     id: 'streaming',
-    title: 'downloader',
+    title1: 'downloader',
     description: 'ستهدف برنامج Downloader من AFTVnews في المقام الأول المستخدمين الذين يحتاجون إلى تنزيل التطبيقات أو ملفات الوسائط أو المستندات مباشرة إلى الأجهزة التي لا تحتوي على متصفح ويب تقليدي، مثل Fire TV أو Android TV Box. إنه مفيد بشكل خاص لأولئك الذين يرغبون في تثبيت APK بسهولة أو نقل الملفات من الويب دون خطوات وسيطة.',
     icon: download,
-    title: 'Movie & Series Streaming',
+    title2: 'Movie & Series Streaming',
     description: 'Best apps for streaming movies, TV shows, and original content',
     icon: Film,
     apps: [
