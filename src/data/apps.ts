@@ -220,16 +220,17 @@ export const appCategories: Category[] = [
         rating: 4.8,
         downloads: '50M+',
         features: ['Music', 'Podcasts', 'Playlists'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=1gg7pF0vHMMZfVb3KidKaWq4y0u8EbLQj&export=download&authuser=0&confirm=t&uuid=10b87dc0-d4d4-49de-af3c-97c80de6438f&at=ALWLOp4Qr_FtXO8OoOoga9-DdvAM%3A1763581211073'
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1gg7pF0vHMMZfVb3KidKaWq4y0u8EbLQj&export=download&authuser=0&confirm=t&uuid=10b87dc0-d4d4-49de-af3c-97c80de6438f&at=ALWLOp4Qr_FtXO8OoOoga9-DdvAM%3A1763581211073',
       },
       {
         id: 'tunein',
         name: 'TuneIn Radio',
-        icon: '📻',
+        icon: 'https://i.ibb.co/tPh2pXtR/tn.png',
         description: 'Listen to live radio, sports, news, music, and podcasts',
         rating: 4.6,
         downloads: '30M+',
         features: ['Live Radio', 'Sports', 'Podcasts'],
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1Jo5_M7y2hBEr4LV_s7tQrvCcreLEvHZy&export=download&authuser=0&confirm=t&uuid=561af5a6-9244-4914-9e4c-307b239b8727&at=ALWLOp4JY3Uv78A2rT5qoL8xFTs2%3A1763581442544',
       },
       {
         id: 'radio maroc',
