@@ -190,7 +190,7 @@ export const appCategories: Category[] = [
         rating: 4.6,
         downloads: '10M+',
         features: ['Large Library', 'Updates', 'Categories'],
-        downloadCode: '345678',
+        downloadUrl: 'https://it.aptoide.com',
       },
       {
         id: 'filelinked',
