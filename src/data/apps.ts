@@ -241,39 +241,7 @@ export const appCategories: Category[] = [
       },
     ],
   },
-  {
-    id: 'games',
-    title: 'Gaming & Entertainment',
-    description: 'Games and entertainment apps for your TV',
-    icon: Gamepad2,
-    apps: [
-      {
-        id: 'steam-link',
-        name: 'Steam Link',
-        icon: '🎮',
-        description: 'Stream PC games from your Steam library to your TV',
-        rating: 4.6,
-        downloads: '5M+',
-        features: ['Game Streaming', 'Controller Support', 'Steam Library'],
-      },
-      {
-        id: 'retroarch',
-        name: 'RetroArch',
-        icon: '🕹️',
-        description: 'Play retro games with this all-in-one emulator',
-        rating: 4.7,
-        downloads: '3M+',
-        features: ['Multi-platform', 'Save States', 'Shaders'],
-      },
-      {
-        id: 'twitch',
-        name: 'Twitch',
-        icon: '🎬',
-        description: 'Watch live streams of games, entertainment, and creative content',
-        rating: 4.5,
-        downloads: '40M+',
-        features: ['Live Streams', 'Chat', 'VODs'],
-      },
+  
     ],
   },
 ];
