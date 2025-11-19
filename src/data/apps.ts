@@ -90,7 +90,7 @@ export const appCategories: Category[] = [
         id: 'GENERALTV',
         name: 'GENERALTV',
         icon: 'https://i.ibb.co/Y7jXyKCW/GENERALTV.png',
-        description: 'Organize and watch video content from different services with add-ons support',
+        description: 'استمتع بتحميل تطبيق جنرال تيفي General TV Pro للهواتف والتلفزيونات الذكية! شاهد مئات القنوات المشفرة، المباريات الحصرية، الأفلام والمسلسلات بجودة عالية HD. حمل التطبيق باستخدام كود التحميل 1989731 وفعّله بكود 5050 لتجربة ترفيهية سلسة ومميزة على جميع أجهزة الأندرويد.',
         rating: 4.7,
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
