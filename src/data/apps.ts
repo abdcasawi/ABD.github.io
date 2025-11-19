@@ -169,7 +169,7 @@ export const appCategories: Category[] = [
       {
         id: 'wolf',
         name: 'Wolf Launcher',
-        icon: '🐺',
+        icon: 'https://i.ibb.co/8gMrrJJL/wolf.png',
         description: 'Fast and customizable launcher with extensive configuration options',
         rating: 4.6,
         downloads: '600K+',
