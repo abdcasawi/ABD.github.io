@@ -128,6 +128,16 @@ export const appCategories: Category[] = [
         downloadCode: 'activation 232425',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1tC6SLd11Skqk3EjlJtxvD7nHEecktIt5&export=download&authuser=0&confirm=t&uuid=1789b2ef-c8e4-4ddd-9a0b-38d7ff2c9702&at=ALWLOp5hHXU0XVR_7gEVjWZjy7yh:1763572328376',
       },
+      {
+        id: 'MIXFLIX',
+        name: 'MIXFLIX',
+        icon: 'https://i.ibb.co/GfTvb0C3/MIXFLIX.png',
+        description: 'تمتعو معنا بمشاهدة الافلام والمسلسلات وجميع الاحداث الرياضية العربية والعالمية',
+        rating: 4.7,
+        downloads: '5M+',
+        features: ['LIVETV', 'EPG', 'LIVE EVENTS'],
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1S7NmTiYO1wy3hqZkXsM1L69c93St2nOe&export=download&authuser=0&confirm=t&uuid=b7c915b1-2f5f-4102-aa9e-e87b4ef43628&at=ALWLOp4ry_sY4CTARXg_qQ5T6yk4:1763574822204',
+      },
     ],
   },
   {
