@@ -154,7 +154,6 @@ export const appCategories: Category[] = [
         rating: 4.8,
         downloads: '1M+',
         features: ['Lightweight', 'No Ads', 'Customizable'],
-        downloadCode: '923456',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=19DyScUM720Brn1Op9gQfPqw9zD8dYChx&export=download&authuser=0&confirm=t&uuid=09559a18-13fd-4d85-bb50-5512b9aeb0b6&at=ALWLOp7L6LOKgWcYo5tGZnsKHdtw:1763575749315',
       },
       {
