@@ -193,15 +193,6 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://it.aptoide.com',
       },
       {
-        id: 'FDROID',
-        name: 'FDROID',
-        icon: 'https://i.ibb.co/rRj54RCS/FDROID.png',
-        description: 'F-Droid è un catalogo di applicazioni FOSS (Free and Open Source Software) per la piattaforma Android',
-        rating: 4.7,
-        downloads: '4M+',
-        downloadUrl: 'https://f-droid.org/it',
-      },
-      {
         id: 'downloader',
         name: 'Downloader',
         icon: '⬇️',
