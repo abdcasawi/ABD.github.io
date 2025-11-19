@@ -125,6 +125,7 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '5M+',
         features: ['LIVETV', 'EPG', 'LIVE EVENTS'],
+        downloadCode: 'activation 232425',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1tC6SLd11Skqk3EjlJtxvD7nHEecktIt5&export=download&authuser=0&confirm=t&uuid=1789b2ef-c8e4-4ddd-9a0b-38d7ff2c9702&at=ALWLOp5hHXU0XVR_7gEVjWZjy7yh:1763572328376',
       },
     ],
