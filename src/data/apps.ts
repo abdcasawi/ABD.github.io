@@ -157,13 +157,14 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://drive.usercontent.google.com/download?id=19DyScUM720Brn1Op9gQfPqw9zD8dYChx&export=download&authuser=0&confirm=t&uuid=09559a18-13fd-4d85-bb50-5512b9aeb0b6&at=ALWLOp7L6LOKgWcYo5tGZnsKHdtw:1763575749315',
       },
       {
-        id: 'aetv',
+        id: 'ATV Launcher',
         name: 'ATV Launcher',
-        icon: '🎯',
+        icon: 'https://i.ibb.co/GQ51KKGf/atv.png',
         description: 'Clean and modern launcher with customizable layouts and themes',
         rating: 4.7,
         downloads: '800K+',
         features: ['Modern UI', 'Themes', 'Widgets'],
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=10KzZiMWP33clUGjkewriZhA5QbfV9KS-&export=download&authuser=0&confirm=t&uuid=87d2ac7c-2028-472d-b6cc-791a4e6fdf32&at=ALWLOp6BwNpcnKX_RukSfxSMbP3i%3A1763579883855',
       },
       {
         id: 'wolf',
