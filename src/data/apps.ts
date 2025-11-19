@@ -173,6 +173,7 @@ export const appCategories: Category[] = [
         rating: 4.6,
         downloads: '600K+',
         features: ['Fast', 'Configurable', 'Lightweight'],
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=18XChIR5sFbAp0zbG-SnT1GhQa5vkbn0-&export=download&authuser=0&confirm=t&uuid=9c8de28b-6de5-4c30-ba13-0648d20d57d0&at=ALWLOp75y0fMa38BoWnfTtmCCtKQ%3A1763579470446',
       },
     ],
   },
