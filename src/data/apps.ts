@@ -185,7 +185,7 @@ export const appCategories: Category[] = [
       {
         id: 'aptoide',
         name: 'Aptoide TV',
-        icon: '🏪',
+        icon: 'https://i.ibb.co/tTcPXmVT/APTOIDE.png',
         description: 'Alternative app store with a vast library of Android TV apps',
         rating: 4.6,
         downloads: '10M+',
