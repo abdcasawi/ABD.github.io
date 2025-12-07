@@ -195,6 +195,16 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://it.aptoide.com',
       },
       {
+        id: 'ramswaper',
+        name: 'ramswaper',
+        icon: 'https://i.ibb.co/rKX03h71/ramswaper.png',
+        description: 'free Android application designed to optimize device performance by creating swap files',
+        rating: 4.6,
+        downloads: '10M+',
+        features: ['ability to create multiple swap files on your device'],
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1URuARiaerEQmqlRQ4b6sWwqb_SIJFBMi&export=download&authuser=0',
+      },
+      {
         id: 'UPTODOWN',
         name: 'UPTODOWN',
         icon: 'https://i.ibb.co/JWQbfXjQ/uptodown.png',
