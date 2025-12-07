@@ -66,7 +66,7 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '12M+',
         features: ['Personal Library', 'Remote Access', 'Free Content'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=1_iB95yBpm8O8mOf3CN_pkoCI9fKw3839&export=download&authuser=0&confirm=t&uuid=dce51124-4494-4e9e-8ba5-c6fdd9dc0da7&at=ALWLOp4VL9gyr94iVunAPsVngOMp:1763588918873',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1iipqiHzS-Sn0SPcoKzWNqVCZOK4n8RQK&export=download&authuser=0',
       },
     ],
   },
