@@ -21,7 +21,7 @@ export const appCategories: Category[] = [
       {
         id: 'maven',
         name: 'maven',
-        icon: 'https://i.ibb.co/F460ppG9/tera-tv4k.png',
+        icon: 'https://i.ibb.co/ns7sKwNy/maven.png',
         description: 'Stream thousands of movies and TV shows in HD quality with subtitles support',
         rating: 9.1,
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
