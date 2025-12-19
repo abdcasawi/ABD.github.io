@@ -46,7 +46,18 @@ export function AppCard({ app }: AppCardProps) {
       {app.downloadCode && (
         <div className="bg-slate-900/50 border border-slate-700 rounded-lg p-3 mb-4">
           <p className="text-slate-400 text-xs mb-1">Download Code</p>
-          <p className="text-blue-400 font-mono font-bold text-lg">{app.downloadCode}</p>
+          {app.downloadCode.startsWith('http') ? (
+            <a
+              href={app.downloadCode}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-blue-400 font-mono font-bold text-lg hover:text-cyan-400 transition-colors cursor-pointer"
+            >
+              {app.downloadCode}
+            </a>
+          ) : (
+            <p className="text-blue-400 font-mono font-bold text-lg">{app.downloadCode}</p>
+          )}
         </div>
       )}
 
