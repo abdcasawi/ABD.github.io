@@ -25,7 +25,7 @@ export const appCategories: Category[] = [
         description: 'Stream thousands of movies and TV shows in HD quality with subtitles support',
         rating: 9.1,
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=1DzRlhy5ADi_aHu3EqMC8ulZvAmwer8GU&export=download&authuser=0&confirm=t&uuid=d2cb6d45-3eb3-4c01-b9ab-b77cf872916c&at=ANTm3cxbRtDky7YOwPnUeitTMRxK%3A1766175192412'/
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1DzRlhy5ADi_aHu3EqMC8ulZvAmwer8GU&export=download&authuser=0&confirm=t&uuid=d2cb6d45-3eb3-4c01-b9ab-b77cf872916c&at=ANTm3cxbRtDky7YOwPnUeitTMRxK%3A1766175192412',
         downloadUrl: 'https://drive.google.com/file/d/1QsSZOTxXJLSt-uvtmE27nghfFpfvA_K7/view?usp=sharing',
       },
       {
