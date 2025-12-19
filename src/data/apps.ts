@@ -26,7 +26,7 @@ export const appCategories: Category[] = [
         rating: 9.1,
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1DzRlhy5ADi_aHu3EqMC8ulZvAmwer8GU&export=download&authuser=0&confirm=t&uuid=d2cb6d45-3eb3-4c01-b9ab-b77cf872916c&at=ANTm3cxbRtDky7YOwPnUeitTMRxK%3A1766175192412',
-          downloadCode:'https://drive.google.com/file/d/1mSwPjL0ZY_QKEo4ufYtLJ1Bzqjr9ihyB/view',
+          downloadCode:downloadUrl:'https://drive.google.com/file/d/1mSwPjL0ZY_QKEo4ufYtLJ1Bzqjr9ihyB/view',
       },
       {
         id: 'DOWNLOADER',
