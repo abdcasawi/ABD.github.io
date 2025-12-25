@@ -105,7 +105,7 @@ downloadCode: 'USER,MMostafa72,PASS,0M@11419992509',
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
         downloadCode: 'activation 5050',
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=1x9Jnac6uBxQXC-ok-kR6Md4WRLgQHCuc&export=download&authuser=0',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1x9Jnac6uBxQXC-ok-kR6Md4WRLgQHCuc&export=download&authuser=0&confirm=t&uuid=861cc7f6-7e54-4465-aa5b-141015287044&at=ANTm3cx-eXFZsl0nWBPQZLXcmnYm:1766689298422',
       },
       {
         id: 'ostora',
