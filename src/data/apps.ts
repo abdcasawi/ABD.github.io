@@ -26,7 +26,6 @@ export const appCategories: Category[] = [
         rating: 9.1,
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
         downloadUrl: 'https://www.mediafire.com/file/m4kgf4pnbzmn5qf/Oztv+v3.4.4.apk/file',
-downloadCode: 'USER,MMostafa72,PASS,0M@',
       },
       {
         id: 'DOWNLOADER',
