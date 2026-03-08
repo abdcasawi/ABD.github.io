@@ -101,7 +101,7 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
-        downloadCode: 'activation 5050',
+        downloadCode: 'activation 000',
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1o7XjazTTfeXnpgZHeQVPKLuAAJ7PNbsi&export=download&authuser=0',
       },
       {
