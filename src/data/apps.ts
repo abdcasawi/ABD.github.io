@@ -46,7 +46,7 @@ downloadCode: 'USER,MMostafa72,PASS,0M@11419992509',
         rating: 4.6,
         downloads: '10M+',
         features: ['Free streaming service with live channels and on-demand content'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=1m2ZK9ydfoUdAorSf5CR5-nS6i7GiaRiC&export=download&authuser=0',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1YKZRKdwpNaFpYbzpwTpYpLAtSJG4uJDT&export=download&authuser=0&confirm=t&uuid=21780552-4a59-4313-adcc-c913d5783912&at=AGN2oQ2IEFmtlVbqXON0P7CdMZfi:1772982992802',
       },
       {
         id: 'IBOFREE',
