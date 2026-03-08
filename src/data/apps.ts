@@ -19,14 +19,14 @@ export const appCategories: Category[] = [
         downloadUrl: 'https://drive.usercontent.google.com/download?id=1e6pVazaZJsLkctIoGqpKQCRVm1lhhdh6&export=download&authuser=0&confirm=t&uuid=d3d47937-4c6a-4e4f-9fd8-2982db146ed1&at=ALWLOp6VtV8b3CnuGkueJ3p7gy6-%3A1763399207458',
       },
       {
-        id: 'maven',
-        name: 'maven',
+        id: 'ortztv',
+        name: 'ortztv',
         icon: 'https://i.ibb.co/ns7sKwNy/maven.png',
         description: 'Stream thousands of movies and TV shows in HD quality with subtitles support',
         rating: 9.1,
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
-        downloadUrl: 'https://drive.usercontent.google.com/download?id=1DzRlhy5ADi_aHu3EqMC8ulZvAmwer8GU&export=download&authuser=0&confirm=t&uuid=d2cb6d45-3eb3-4c01-b9ab-b77cf872916c&at=ANTm3cxbRtDky7YOwPnUeitTMRxK%3A1766175192412',
-downloadCode: 'USER,MMostafa72,PASS,0M@11419992509',
+        downloadUrl: 'https://www.mediafire.com/file/m4kgf4pnbzmn5qf/Oztv+v3.4.4.apk/file',
+downloadCode: 'USER,MMostafa72,PASS,0M@',
       },
       {
         id: 'DOWNLOADER',
