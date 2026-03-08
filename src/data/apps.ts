@@ -14,7 +14,10 @@ export const appCategories: Category[] = [
         icon: 'https://i.ibb.co/F460ppG9/tera-tv4k.png',
         description: 'Stream thousands of movies and TV shows in HD quality with subtitles support',
         rating: 9.1,
-        downloads: '2M+',
+        downloads: 'USERNAME=  8c:ea:48:d4:ee:c2
+PASSWORD=  8c:ea:48:d4:ee:c20
+USERNAME= friend147
+PASSWORD= friend147',
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
         downloadUrl: 'https://www.mediafire.com/file/1xtkfxfznfbjzsr/Star+Share+Player_7.apk/file',
       },
