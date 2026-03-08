@@ -91,7 +91,7 @@ export const appCategories: Category[] = [
         rating: 4.7,
         downloads: '5M+',
         features: ['Add-ons', 'Multi-source', 'Sync'],
-        downloadUrl: 'https://www.mediafire.com/file/pbbze3vyih2ekrw/YaTVBlue_by_HDS.apk/file',
+        downloadUrl: 'https://drive.usercontent.google.com/download?id=1Q5SovDauFMI3jHobCXlilwet_ZF0EiQP&export=download&authuser=0&confirm=t&uuid=e0308069-8651-41e1-a32c-110cc037f212&at=AGN2oQ2_LMPiMLQQjE9N7Rwqdm-K:1773007324291,
       },
       {
         id: 'GENERALTV pro',
