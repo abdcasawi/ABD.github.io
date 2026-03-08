@@ -12,7 +12,7 @@ export const appCategories: Category[] = [
         id: 'starshare',
         name: 'starshare',
         icon: 'https://i.ibb.co/F460ppG9/tera-tv4k.png',
-        description: 'USERNAME=8c:ea:48:d4:ee:c2,PASSWORD=  8c:ea:48:d4:ee:c20,USERNAME= friend147,PASSWORD= friend147',
+        description: 'USERNAME= friend147,PASSWORD= friend147',
         features: ['HD Streaming', 'Subtitles', 'No Ads'],
         downloadUrl: 'https://www.mediafire.com/file/1xtkfxfznfbjzsr/Star+Share+Player_7.apk/file',
       },
